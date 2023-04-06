@@ -1,3 +1,8 @@
+# Archive Notice
+**I am no longer maintaining any Subnautica mods! As of April 2023, most of my old mods are being maintained by MrPurple6411.**
+
+---
+
 ## Mods
 
 | Name | Version | Description | Source Code |
