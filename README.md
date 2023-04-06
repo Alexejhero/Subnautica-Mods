@@ -5,17 +5,21 @@
 
 ## Mods
 
-| Name | Version | Description | Source Code |
-|-|-|-|-|
-| [Configurable Drillable Count](https://www.nexusmods.com/subnautica/mods/223) | 1.0.0 | Allows you to set how many resources you get when mining large resource deposits | [here](ConfigurableDrillableCount/Mod.cs) |
-| [Horizontal Wall Lockers](https://www.nexusmods.com/subnautica/mods/395) | 1.0.0 | Adds horizontal wall lockers to the game! | [here](HorizontalWallLockers/Mod.cs)
-| [Instant Bulkhead Animations](https://nexusmods.com/subnautica/mods/221) | 1.0.0 | Skips the bulkhead animation and makes it look like a Minecraft door | [here](InstantBulkheadAnimations/Mod.cs) |
-| [More Modified Items](https://www.nexusmods.com/subnautica/mods/398) | 1.1.0 | Adds a Lightweight Ultra Capacity Tank, a Reinforced Stillsuit, and Ultra Glide Swim Charge Fins | [here](MoreModifiedItems/Mod.cs) |
-| [No Menu Pause](https://www.nexusmods.com/subnautica/mods/360) | 1.1.0 | Makes the game not pause when the ESC pause menu is opened | [here](NoMenuPause/Mod.cs)
-| [Pickupable Storage Enhanced](https://www.nexusmods.com/subnautica/mods/220) | 1.1.0 | Allows you to pickup carry-alls and waterproof lockers which are not empty, and even open them from your inventory! | [here](PickupFullCarryalls/Mod.cs) |
+| Name | Description | Source Code |
+|-|-|-|
+| [Configurable Drillable Count](https://www.nexusmods.com/subnautica/mods/223) | Allows you to set how many resources you get when mining large resource deposits | [here](ConfigurableDrillableCount/Mod.cs) |
+| [Horizontal Wall Lockers](https://www.nexusmods.com/subnautica/mods/395) | Adds horizontal wall lockers to the game! | [here](HorizontalWallLockers/Mod.cs)
+| [Instant Bulkhead Animations](https://nexusmods.com/subnautica/mods/221) | Skips the bulkhead animation and makes it look like a Minecraft door | [here](InstantBulkheadAnimations/Mod.cs) |
+| [More Modified Items](https://www.nexusmods.com/subnautica/mods/398) | Adds a Lightweight Ultra Capacity Tank, a Reinforced Stillsuit, and Ultra Glide Swim Charge Fins | [here](MoreModifiedItems/Mod.cs) |
+| [No Menu Pause](https://www.nexusmods.com/subnautica/mods/360) | Makes the game not pause when the ESC pause menu is opened | [here](NoMenuPause/Mod.cs)
+| [Pickupable Storage Enhanced](https://www.nexusmods.com/subnautica/mods/220) | Allows you to pickup carry-alls and waterproof lockers which are not empty, and even open them from your inventory! | [here](PickupFullCarryalls/Mod.cs) |
+| [Scuba Manifold](https://www.nexusmods.com/subnautica/mods/379) | Combines the oxygen supply of all carried tanks | [here](ScubaManifold/Mod.cs) |
   
 ## Removed Mods
-These mods have been deleted from nexus and can no longer be downloaded from there.
+These mods have been deleted from nexus and can no longer be downloaded.
+  
+<details>
+<summary>Click to view</summary>
   
 | Name | Description | Removal Reason |
 |-|-|-|
@@ -28,3 +32,5 @@ These mods have been deleted from nexus and can no longer be downloaded from the
 | More Ingots | Allows basic resources to be turned into compressed ones to save storage space | Use [M3dicCookie's More Ingots](https://www.nexusmods.com/subnautica/mods/196) instead |
 | Replenish Reactor Rods | Makes it possible to replenish reactor rods once before needing to throw them away | Use [M3dicCookie's Replenish Reactor Rods](https://www.nexusmods.com/subnautica/mods/230) instead |
 | Unpack Ingots | Allows you to turn plasteel and titanium ingots back into their component parts | Use [PPVVDD's Defabricator](https://www.nexusmods.com/subnautica/mods/216) instead |
+
+</details>
